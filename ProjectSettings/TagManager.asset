@@ -43,11 +43,14 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Droplet
-    uniqueID: 2354412159
+  - name: Background
+    uniqueID: 2721379585
     locked: 0
   - name: Foreground
     uniqueID: 485445983
+    locked: 0
+  - name: Droplet
+    uniqueID: 2354412159
     locked: 0
   m_RenderingLayers:
   - Default
